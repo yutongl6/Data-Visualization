@@ -1,6 +1,6 @@
 # Data-Visualization
 
-`#538c5d`## About Me 
+## About Me 
 
 I'm Yutong Liu, a filmmaker, film producer, and arts manager originally from Beijing, China. Now I'm pursuing my master of entertainment management degree at Carnegie Mellon University in Pittsburgh! After graduation, I want to work as a free-lancing film producer and distributor. Meanwhile, I will develop my own documentary films. My career goal is to create and produce cross-cultural independent films filling the cleavages between Eastern and Western cultures. I love pole-dancing, photography, singing, reading, and learning languages! I can speak Chinese, English, French, and Japanese, and I'm willing to make friends from different parts of the world! 
 
