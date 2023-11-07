@@ -11,3 +11,6 @@ By taking the course Telling Stories with Data, I aim to learn on how to create 
 ## Portfolio
 
 The following projects are from the course Telling Stories with Data and beyond. I hope it gives you a sense on how I tell stories with data!
+
+### General National Debt
+<iframe src="https://data.oecd.org/chart/7fa3" width="860" height="645" style="border: 0" mozallowfullscreen="true" webkitallowfullscreen="true" allowfullscreen="true"><a href="https://data.oecd.org/chart/7fa3" target="_blank">OECD Chart: General government debt, Total, % of GDP, Annual, 2022</a></iframe>
