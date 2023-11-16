@@ -14,7 +14,7 @@ The following projects are from the course Telling Stories with Data and beyond.
 
 ### Assignment 1&2
 
-[A relative link](/cool chart.md)
+[A relative link](/page1.md)
 
 ### Assignment 3&4
 
