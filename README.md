@@ -12,10 +12,7 @@ By taking the course Telling Stories with Data, I aim to learn on how to create 
 
 The following projects are from the course Telling Stories with Data and beyond. I hope it gives you a sense on how I tell stories with data!
 
-### Assignment 1&2
 
-[A relative link](/page1.md)
+[Assignment 1&2](/page1.md)
 
-### Assignment 3&4
-
-[A relative link](/page2.md)
+[Assignment 3&4](/page2.md)
