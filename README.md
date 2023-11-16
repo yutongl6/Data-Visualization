@@ -41,7 +41,7 @@ The following projects are from the course Telling Stories with Data and beyond.
 The first bar chart shows the sum of national debts for each countries throughout the years. It is easy to see which countries have the most national debts and to compare with one another. Seven major countries are also marked in colors. The second heatmap chart shows when each country has a high national debt: orange represents high debts while blue represents low debts. By looking at this visualization, the viewers can easily distinguish the general trend and the specific changing point for each countries. The third pie chart is used to compare national debts for USA and Canada throughout the years. A trend on USA having a smaller gap from Canada on national debts is distinguishable. 
 Those three visualizations are different on their purposes. The first one gives a general idea on the sum of national debts for all countries; the second one gives detail trends for the changing point in each year for all countries; while the third one points out two major countries in North America as a comparison. I choose the third visualization because it tells a detailed stories on how USA's national debt is reaching to Canada's level throughout the years. It might be what the viewers find useful if their research is focusing on comparing those two counries.
 
-[A relative link] (/Assignment 3 & 4: Critique by Design with Tableau.md)
+[A relative link](/page2.md)
 
 ### Step One
 What I like:
