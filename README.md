@@ -16,3 +16,5 @@ The following projects are from the course Telling Stories with Data and beyond.
 [Assignment 1&2](/page1.md)
 
 [Assignment 3&4](/page2.md)
+
+[Final Project Part 1](/finalpart1.md)
