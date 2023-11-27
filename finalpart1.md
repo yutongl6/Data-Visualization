@@ -9,10 +9,10 @@ This data visualization focuses on telling a story on how social activism reduce
 5. What could people do in the future to reduce sexual assault and harrasment cases
 
 ## Sketches
-![See content related to sexual misconduct](7679.jpg)
-![Views of Metoo Movement vary by party](7980.jpg)
-![Percentage of men and women experienced sexual misconduct](7981.jpg)
-![hashtag frequently used during new events](7982.jpg)
+![See content related to sexual misconduct](IMG_7679.jpg)
+![Views of Metoo Movement vary by party](IMG_7680.jpg)
+![Percentage of men and women experienced sexual misconduct](IMG_7681.jpg)
+![hashtag frequently used during new events](IMG_7682.jpg)
 
 ## Data
 Metoo tweets: This data set provides examples on tweets people sent out under the hashtag of Metoo Movement. By studying those tweets, the story will introduce what are the keywords that people talk about and what are their opinions toward Metoo Movements.
